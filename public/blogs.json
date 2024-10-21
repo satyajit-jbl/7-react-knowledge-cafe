@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/JptkmfH/halloween-collage-background-illustration-23-2151853114.jpg",
+      "title": "Whispers of the Silent Valley",
+      "author": "Lena Marlowe",
+      "author_img": "https://i.ibb.co.com/M56sxxw/young-bearded-man-with-striped-shirt-273609-5677.jpg",
+      "posted_date": "2024-09-12",
+      "reading_time": 7,
+      "hashtags": ["#mystery", "#thriller", "#fiction", "#suspense"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/MBpcCZB/spooky-dark-halloween-background-with-scary-elements-36662-1820.jpg",
+      "title": "Echoes of the Forgotten Past",
+      "author": "Mark Ryland",
+      "author_img": "https://i.ibb.co.com/1TqG5Lj/portrait-smiling-blonde-woman-23-2148316635.jpg",
+      "posted_date": "2024-08-21",
+      "reading_time": 5,
+      "hashtags": ["#historicalfiction", "#drama", "#warstories", "#epic"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/DWmsdW8/scary-red-sky-with-pumpkins-bats-halloween-background-1017-34193.jpg",
+      "title": "Winds of the Eternal Sea",
+      "author": "Clara Stone",
+      "author_img": "https://i.ibb.co.com/4s1Zcfs/portrait-man-laughing-23-2148859448.jpg",
+      "posted_date": "2024-10-05",
+      "reading_time": 9,
+      "hashtags": ["#fantasy", "#adventure", "#seasaga", "#magic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/N1RTh3g/240-F-375317891-Ca-B5y-Fa-QSd-Tezeuw6-NLJUZy-Cmg-Xt-YLba.jpg",
+      "title": "Beneath the Crimson Sky",
+      "author": "Ethan Foster",
+      "author_img": "https://i.ibb.co.com/CvVVckD/bearded-man-listening-music-through-earphones-53876-129947.jpg",
+      "posted_date": "2024-07-30",
+      "reading_time": 6,
+      "hashtags": ["#romance", "#drama", "#familysecrets", "#emotional"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/hVVsVQ6/240-F-439674303-k5-BABa-Zqe-Hhp2-Jf-Yxfs-Rl9h40-FNi9-WGk.jpg",
+      "title": "The Last Ember of Twilight",
+      "author": "Sophie Caldwell",
+      "author_img": "https://i.ibb.co.com/jbrbVYS/man-with-beard-mustache-stands-front-blue-background-1018793-1029.jpg",
+      "posted_date": "2024-09-18",
+      "reading_time": 8,
+      "hashtags": ["#sciencefiction", "#postapocalyptic", "#dystopia", "#future"]
+    }
+  ]
+  
